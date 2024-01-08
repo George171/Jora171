@@ -1,0 +1,25 @@
+{
+    "goods": [
+      {
+        "goodName": "Молоко Домик в деревне",
+        "pricePerCount": 67.99,
+        "countInOrder": 4
+      },
+      {
+        "goodName": "Квас Очаково",
+        "pricePerCount": 39.82,
+        "countInOrder": 4
+      },
+      {
+        "goodName": "Сыр российский",
+        "pricePerCount": 67.99,
+        "countInOrder": 4
+      },
+      {
+        "goodName": "Хлеб домашний",
+        "pricePerCount": 67.12,
+        "countInOrder": 4
+      }
+    ],
+    "totalPrice": "2699"
+  }
